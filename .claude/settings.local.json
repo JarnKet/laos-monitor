@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(vp info:*)",
+      "Bash(vp show:*)",
+      "Bash(npm show:*)",
+      "WebFetch(domain:www.mapcn.dev)",
+      "Bash(vp add:*)",
+      "Bash(vp help:*)",
+      "Bash(vp install:*)",
+      "Bash(vp check:*)"
+    ]
+  }
+}
