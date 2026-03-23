@@ -4,6 +4,7 @@ const GRID_KEY = Symbol('grid');
 
 export interface GridCtx {
   get editMode(): boolean;
+  removeWidget(id: string): void;
 }
 
 export function setGridContext(ctx: GridCtx) {

@@ -12,6 +12,9 @@ importers:
 
   .:
     dependencies:
+      '@fontsource-variable/noto-sans-lao':
+        specifier: ^5.2.8
+        version: 5.2.8
       gridstack:
         specifier: ^12.4.2
         version: 12.4.2
@@ -258,6 +261,9 @@ packages:
 
   '@floating-ui/utils@0.2.11':
     resolution: {integrity: sha512-RiB/yIh78pcIxl6lLMG0CgBXAZ2Y0eVHqMPYugu+9U0AeT6YBeiJpf7lbdJNIugFP5SIjwNRgo4DhR1Qxi26Gg==}
+
+  '@fontsource-variable/noto-sans-lao@5.2.8':
+    resolution: {integrity: sha512-18CeoE6RMxneH9buK51uZY5r+hKvj4hXK2QKOk5PiraBtxeKAYfhOmV/PCtpWtERp7gWs2AjEd7wo8pKEe2KTQ==}
 
   '@fontsource-variable/noto-sans@5.2.10':
     resolution: {integrity: sha512-wyFgKkFu7jki5kEL8qv7avjQ8rxHX0J/nhLWvbR9T0hOH1HRKZEvb9EW9lMjZfWHHfEzKkYf5J+NadwgCS7TXA==}
@@ -1513,6 +1519,8 @@ snapshots:
       '@floating-ui/utils': 0.2.11
 
   '@floating-ui/utils@0.2.11': {}
+
+  '@fontsource-variable/noto-sans-lao@5.2.8': {}
 
   '@fontsource-variable/noto-sans@5.2.10': {}
 

@@ -8,7 +8,9 @@
       "Bash(vp add:*)",
       "Bash(vp help:*)",
       "Bash(vp install:*)",
-      "Bash(vp check:*)"
+      "Bash(vp check:*)",
+      "WebFetch(domain:aqicn.org)",
+      "WebFetch(domain:laotiantimes.com)"
     ]
   }
 }

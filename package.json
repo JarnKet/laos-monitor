@@ -14,6 +14,7 @@
     "test": "npm run test:unit -- --run"
   },
   "dependencies": {
+    "@fontsource-variable/noto-sans-lao": "^5.2.8",
     "gridstack": "^12.4.2",
     "maplibre-gl": "^5.20.2",
     "mode-watcher": "^1.1.0"

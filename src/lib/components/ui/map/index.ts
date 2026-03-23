@@ -10,3 +10,4 @@ export { default as MapRoute } from './map-route.svelte';
 export { useMap } from './map-context.js';
 export type { MapCtx, MarkerCtx } from './map-context.js';
 export { default as UserLocation } from './user-location.svelte';
+export { default as MapRasterLayer } from './map-raster-layer.svelte';
